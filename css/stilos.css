@@ -1,0 +1,59 @@
+
+.principal{
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.caja{
+    border: 5px;
+    border-style: solid;
+    color: green;
+    width: 423px;
+    height: 600px;
+    margin: auto;
+    padding: 2px;
+    margin-bottom: 5px;
+    
+}
+
+.caja2{
+    width: 403px;
+    height: 30.5%;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+}
+
+.caja3{
+    border: 5px;
+    border-style: solid;
+    color: red;
+    width: 33.3%;
+    height: 120px;
+    margin: 3px;
+    
+}
+
+.caja4{
+    border: 5px;
+    border-style: solid;
+    color: red;
+    width: 395px;
+    height: 75px;
+    margin-bottom: 5px;
+    margin-left: 8px;
+    margin-right: 10px;
+}
+
+.caja5{
+    border: 5px;
+    border-style: solid;
+    color: red;
+    width: 395px;
+    height: 85px;
+    margin-bottom: 5px;
+    margin-left: 8px;
+    margin-right: 10px;
+}
